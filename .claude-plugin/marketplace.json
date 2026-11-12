@@ -1,0 +1,5 @@
+{
+  "name": "catch-me-up",
+  "owner": { "name": "twlines" },
+  "plugins": [{ "name": "catch-me-up", "source": "./" }]
+}

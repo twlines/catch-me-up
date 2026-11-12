@@ -1,0 +1,8 @@
+{
+  "name": "catch-me-up",
+  "version": "0.1.0",
+  "description": "A button above the prompt that tells you, out loud, where this thread stands and what it needs from you.",
+  "author": { "name": "twlines" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
